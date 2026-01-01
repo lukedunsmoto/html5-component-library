@@ -1,4 +1,7 @@
 # HTML5 Component Library
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Live Site](https://img.shields.io/badge/demo-live-blue)](https://www.lukedunsmore.com/html-component-library.html)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
 A practical, framework-free HTML component library focused on clarity, accessibility, and real-world use.
 
